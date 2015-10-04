@@ -26,6 +26,7 @@
     "ip": "0.3.2",
     "nicercast": "0.1.0",
     "nodetunes": "0.2.1",
+    "raop-rtsp-server": "0.0.2",
     "sonos": "git://github.com/stephen/node-sonos.git#stephen-1.0.0"
   },
   "license": "MIT",
